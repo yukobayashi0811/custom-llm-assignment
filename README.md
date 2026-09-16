@@ -151,7 +151,7 @@ Lower temperature sharpens the distribution and generally favors more likely con
 
 ### Google Colab
 
-1. Open [custom_llm.ipynb](custom_llm.ipynb) in Colab.
+1. [Open the notebook directly in Google Colab](https://colab.research.google.com/github/yukobayashi0811/custom-llm-assignment/blob/main/custom_llm.ipynb), then save a copy in Drive.
 2. Confirm `CORPUS = "classroom"`, `TRAINING_STEPS = 3000`, and `LEARNING_RATE = 0.001` in the first code cell.
 3. Choose **Runtime → Run all**.
 4. Download the newly generated ZIP and the executed notebook from Colab.
