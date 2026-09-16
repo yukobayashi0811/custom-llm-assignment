@@ -1,0 +1,36 @@
+{
+  "model_sha256": "997cd344cae0e2d27ca76a939512b4402a49248ea109fc02c5bae55909911d0b",
+  "completed_steps": 3000,
+  "fresh_context_per_prompt": true,
+  "temperature": 0.8,
+  "max_tokens": 24,
+  "turns": [
+    {
+      "prompt": "the customer",
+      "seed": 2026,
+      "response": "recommended the product after checking the price .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "our school",
+      "seed": 2027,
+      "response": "has a question about the local instructor and learning .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "can you explain quantum physics",
+      "seed": 2028,
+      "response": "the local train at the station .",
+      "unknown_prompt_words": [
+        "can",
+        "explain",
+        "physics",
+        "quantum",
+        "you"
+      ],
+      "prompt_truncated": false
+    }
+  ]
+}

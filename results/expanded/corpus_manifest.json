@@ -1,0 +1,23 @@
+{
+  "files": [
+    {
+      "file": "grammar_and_contrasts.txt",
+      "bytes": 41744,
+      "sha256": "a7e1350eeda0faedb005f4138d2f4e67ada6c761db3cf6625ea2b27c6724741a",
+      "warnings": [],
+      "characters": 41744,
+      "passages": 904,
+      "unique_passages": 904,
+      "preview": "A bird is awake this morning.\nSeveral birds are awake this morning.\nA bird was awake last evening.\nSeveral birds were awake last evening.\nA bird is hungry this morning.\nSeveral birds are hungry this morning.\nA bird was hungry last evening.\nSeveral birds were hungry last evening.\nA bird is quiet this"
+    }
+  ],
+  "ignored": [],
+  "external_passages": 904,
+  "mode": "classroom",
+  "base_passages": 6200,
+  "unique_passages": 5496,
+  "new_unique_passages": 904,
+  "duplicates_removed": 1608,
+  "max_passage_tokens": 47,
+  "split_unit": "deduplicated passage, not source file"
+}

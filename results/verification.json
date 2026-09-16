@@ -1,0 +1,86 @@
+{
+  "eval_cases_per_stage": 48,
+  "total_case_records": 192,
+  "official_suite_file_sha256": "e8affcd72841e3ed7da5c0b6b116327fe9f69c9abd66a1180d1d88ceaa3e17f7",
+  "official_runner_and_chat_unchanged": true,
+  "experiments": {
+    "starter": {
+      "completed_steps": 3000,
+      "executed_code_cells": 14,
+      "train_passages": 4132,
+      "validation_passages": 460,
+      "exact_eval_prompt_matches_in_train_or_validation": 0,
+      "vocabulary_from_training_only": true,
+      "saved_weights_reproduce_all_48_case_results_before_and_after": true,
+      "initial_and_final_panel_losses_recomputed": {
+        "untrained": {
+          "training_loss": 4.926252365112305,
+          "validation_loss": 4.927547931671143
+        },
+        "final": {
+          "training_loss": 0.6783124208450317,
+          "validation_loss": 0.7061358690261841
+        }
+      },
+      "chat_turns_reproduced": 3,
+      "all_case_and_coverage_totals_reconciled": {
+        "untrained": {
+          "correct": 9,
+          "total": 48,
+          "scorable": 24,
+          "success_rate_all_cases": 0.1875,
+          "accuracy_scorable_cases": 0.375,
+          "coverage": 0.5
+        },
+        "final": {
+          "correct": 20,
+          "total": 48,
+          "scorable": 24,
+          "success_rate_all_cases": 0.4166666666666667,
+          "accuracy_scorable_cases": 0.8333333333333334,
+          "coverage": 0.5
+        }
+      },
+      "results_zip_matches_files": true
+    },
+    "expanded": {
+      "completed_steps": 3000,
+      "executed_code_cells": 14,
+      "train_passages": 4946,
+      "validation_passages": 550,
+      "exact_eval_prompt_matches_in_train_or_validation": 0,
+      "vocabulary_from_training_only": true,
+      "saved_weights_reproduce_all_48_case_results_before_and_after": true,
+      "initial_and_final_panel_losses_recomputed": {
+        "untrained": {
+          "training_loss": 5.470247745513916,
+          "validation_loss": 5.462896823883057
+        },
+        "final": {
+          "training_loss": 0.7165384292602539,
+          "validation_loss": 0.7404989004135132
+        }
+      },
+      "chat_turns_reproduced": 3,
+      "all_case_and_coverage_totals_reconciled": {
+        "untrained": {
+          "correct": 6,
+          "total": 48,
+          "scorable": 27,
+          "success_rate_all_cases": 0.125,
+          "accuracy_scorable_cases": 0.2222222222222222,
+          "coverage": 0.5625
+        },
+        "final": {
+          "correct": 27,
+          "total": 48,
+          "scorable": 27,
+          "success_rate_all_cases": 0.5625,
+          "accuracy_scorable_cases": 1.0,
+          "coverage": 0.5625
+        }
+      },
+      "results_zip_matches_files": true
+    }
+  }
+}

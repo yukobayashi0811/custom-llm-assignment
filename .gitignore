@@ -1,4 +1,4 @@
 llm_runs/
-corpus/*
+.venv/
 __pycache__/
 .ipynb_checkpoints/

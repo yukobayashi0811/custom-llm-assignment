@@ -1,0 +1,904 @@
+A bird is awake this morning.
+Several birds are awake this morning.
+A bird was awake last evening.
+Several birds were awake last evening.
+A bird is hungry this morning.
+Several birds are hungry this morning.
+A bird was hungry last evening.
+Several birds were hungry last evening.
+A bird is quiet this morning.
+Several birds are quiet this morning.
+A bird was quiet last evening.
+Several birds were quiet last evening.
+A bird is nearby this morning.
+Several birds are nearby this morning.
+A bird was nearby last evening.
+Several birds were nearby last evening.
+A bird is outside this morning.
+Several birds are outside this morning.
+A bird was outside last evening.
+Several birds were outside last evening.
+A bird is small this morning.
+Several birds are small this morning.
+A bird was small last evening.
+Several birds were small last evening.
+A dog is awake this morning.
+Several dogs are awake this morning.
+A dog was awake last evening.
+Several dogs were awake last evening.
+A dog is hungry this morning.
+Several dogs are hungry this morning.
+A dog was hungry last evening.
+Several dogs were hungry last evening.
+A dog is quiet this morning.
+Several dogs are quiet this morning.
+A dog was quiet last evening.
+Several dogs were quiet last evening.
+A dog is nearby this morning.
+Several dogs are nearby this morning.
+A dog was nearby last evening.
+Several dogs were nearby last evening.
+A dog is outside this morning.
+Several dogs are outside this morning.
+A dog was outside last evening.
+Several dogs were outside last evening.
+A dog is small this morning.
+Several dogs are small this morning.
+A dog was small last evening.
+Several dogs were small last evening.
+A cat is awake this morning.
+Several cats are awake this morning.
+A cat was awake last evening.
+Several cats were awake last evening.
+A cat is hungry this morning.
+Several cats are hungry this morning.
+A cat was hungry last evening.
+Several cats were hungry last evening.
+A cat is quiet this morning.
+Several cats are quiet this morning.
+A cat was quiet last evening.
+Several cats were quiet last evening.
+A cat is nearby this morning.
+Several cats are nearby this morning.
+A cat was nearby last evening.
+Several cats were nearby last evening.
+A cat is outside this morning.
+Several cats are outside this morning.
+A cat was outside last evening.
+Several cats were outside last evening.
+A cat is small this morning.
+Several cats are small this morning.
+A cat was small last evening.
+Several cats were small last evening.
+A rabbit is awake this morning.
+Several rabbits are awake this morning.
+A rabbit was awake last evening.
+Several rabbits were awake last evening.
+A rabbit is hungry this morning.
+Several rabbits are hungry this morning.
+A rabbit was hungry last evening.
+Several rabbits were hungry last evening.
+A rabbit is quiet this morning.
+Several rabbits are quiet this morning.
+A rabbit was quiet last evening.
+Several rabbits were quiet last evening.
+A rabbit is nearby this morning.
+Several rabbits are nearby this morning.
+A rabbit was nearby last evening.
+Several rabbits were nearby last evening.
+A rabbit is outside this morning.
+Several rabbits are outside this morning.
+A rabbit was outside last evening.
+Several rabbits were outside last evening.
+A rabbit is small this morning.
+Several rabbits are small this morning.
+A rabbit was small last evening.
+Several rabbits were small last evening.
+A horse is awake this morning.
+Several horses are awake this morning.
+A horse was awake last evening.
+Several horses were awake last evening.
+A horse is hungry this morning.
+Several horses are hungry this morning.
+A horse was hungry last evening.
+Several horses were hungry last evening.
+A horse is quiet this morning.
+Several horses are quiet this morning.
+A horse was quiet last evening.
+Several horses were quiet last evening.
+A horse is nearby this morning.
+Several horses are nearby this morning.
+A horse was nearby last evening.
+Several horses were nearby last evening.
+A horse is outside this morning.
+Several horses are outside this morning.
+A horse was outside last evening.
+Several horses were outside last evening.
+A horse is small this morning.
+Several horses are small this morning.
+A horse was small last evening.
+Several horses were small last evening.
+A duck is awake this morning.
+Several ducks are awake this morning.
+A duck was awake last evening.
+Several ducks were awake last evening.
+A duck is hungry this morning.
+Several ducks are hungry this morning.
+A duck was hungry last evening.
+Several ducks were hungry last evening.
+A duck is quiet this morning.
+Several ducks are quiet this morning.
+A duck was quiet last evening.
+Several ducks were quiet last evening.
+A duck is nearby this morning.
+Several ducks are nearby this morning.
+A duck was nearby last evening.
+Several ducks were nearby last evening.
+A duck is outside this morning.
+Several ducks are outside this morning.
+A duck was outside last evening.
+Several ducks were outside last evening.
+A duck is small this morning.
+Several ducks are small this morning.
+A duck was small last evening.
+Several ducks were small last evening.
+A goat is awake this morning.
+Several goats are awake this morning.
+A goat was awake last evening.
+Several goats were awake last evening.
+A goat is hungry this morning.
+Several goats are hungry this morning.
+A goat was hungry last evening.
+Several goats were hungry last evening.
+A goat is quiet this morning.
+Several goats are quiet this morning.
+A goat was quiet last evening.
+Several goats were quiet last evening.
+A goat is nearby this morning.
+Several goats are nearby this morning.
+A goat was nearby last evening.
+Several goats were nearby last evening.
+A goat is outside this morning.
+Several goats are outside this morning.
+A goat was outside last evening.
+Several goats were outside last evening.
+A goat is small this morning.
+Several goats are small this morning.
+A goat was small last evening.
+Several goats were small last evening.
+A fox is awake this morning.
+Several foxes are awake this morning.
+A fox was awake last evening.
+Several foxes were awake last evening.
+A fox is hungry this morning.
+Several foxes are hungry this morning.
+A fox was hungry last evening.
+Several foxes were hungry last evening.
+A fox is quiet this morning.
+Several foxes are quiet this morning.
+A fox was quiet last evening.
+Several foxes were quiet last evening.
+A fox is nearby this morning.
+Several foxes are nearby this morning.
+A fox was nearby last evening.
+Several foxes were nearby last evening.
+A fox is outside this morning.
+Several foxes are outside this morning.
+A fox was outside last evening.
+Several foxes were outside last evening.
+A fox is small this morning.
+Several foxes are small this morning.
+A fox was small last evening.
+Several foxes were small last evening.
+I am ready today.
+She is ready today.
+We are ready today.
+They were ready last night.
+She was ready last night.
+He is ready today.
+I am early today.
+She is early today.
+We are early today.
+They were early last night.
+She was early last night.
+He is early today.
+I am late today.
+She is late today.
+We are late today.
+They were late last night.
+She was late last night.
+He is late today.
+I am happy today.
+She is happy today.
+We are happy today.
+They were happy last night.
+She was happy last night.
+He is happy today.
+I am tired today.
+She is tired today.
+We are tired today.
+They were tired last night.
+She was tired last night.
+He is tired today.
+I am quiet today.
+She is quiet today.
+We are quiet today.
+They were quiet last night.
+She was quiet last night.
+He is quiet today.
+I am warm today.
+She is warm today.
+We are warm today.
+They were warm last night.
+She was warm last night.
+He is warm today.
+I am cold today.
+She is cold today.
+We are cold today.
+They were cold last night.
+She was cold last night.
+He is cold today.
+She walks to the garden each morning.
+They walk to the garden each morning.
+I walk to the garden each morning.
+She walks to the garden every afternoon.
+They walk to the garden every afternoon.
+I walk to the garden every afternoon.
+She walks to the garden on weekends.
+They walk to the garden on weekends.
+I walk to the garden on weekends.
+She walked to the garden last Monday.
+They walked to the garden last Monday.
+We were walking to the garden last Monday.
+She walked to the garden last week.
+They walked to the garden last week.
+We were walking to the garden last week.
+She walked to the garden yesterday.
+They walked to the garden yesterday.
+We were walking to the garden yesterday.
+She walked to the garden last summer.
+They walked to the garden last summer.
+We were walking to the garden last summer.
+She is walking to the garden now.
+They are walking to the garden now.
+She walks to the park each morning.
+They walk to the park each morning.
+I walk to the park each morning.
+She walks to the park every afternoon.
+They walk to the park every afternoon.
+I walk to the park every afternoon.
+She walks to the park on weekends.
+They walk to the park on weekends.
+I walk to the park on weekends.
+She walked to the park last Monday.
+They walked to the park last Monday.
+We were walking to the park last Monday.
+She walked to the park last week.
+They walked to the park last week.
+We were walking to the park last week.
+She walked to the park yesterday.
+They walked to the park yesterday.
+We were walking to the park yesterday.
+She walked to the park last summer.
+They walked to the park last summer.
+We were walking to the park last summer.
+She is walking to the park now.
+They are walking to the park now.
+She walks to the library each morning.
+They walk to the library each morning.
+I walk to the library each morning.
+She walks to the library every afternoon.
+They walk to the library every afternoon.
+I walk to the library every afternoon.
+She walks to the library on weekends.
+They walk to the library on weekends.
+I walk to the library on weekends.
+She walked to the library last Monday.
+They walked to the library last Monday.
+We were walking to the library last Monday.
+She walked to the library last week.
+They walked to the library last week.
+We were walking to the library last week.
+She walked to the library yesterday.
+They walked to the library yesterday.
+We were walking to the library yesterday.
+She walked to the library last summer.
+They walked to the library last summer.
+We were walking to the library last summer.
+She is walking to the library now.
+They are walking to the library now.
+She walks to the bridge each morning.
+They walk to the bridge each morning.
+I walk to the bridge each morning.
+She walks to the bridge every afternoon.
+They walk to the bridge every afternoon.
+I walk to the bridge every afternoon.
+She walks to the bridge on weekends.
+They walk to the bridge on weekends.
+I walk to the bridge on weekends.
+She walked to the bridge last Monday.
+They walked to the bridge last Monday.
+We were walking to the bridge last Monday.
+She walked to the bridge last week.
+They walked to the bridge last week.
+We were walking to the bridge last week.
+She walked to the bridge yesterday.
+They walked to the bridge yesterday.
+We were walking to the bridge yesterday.
+She walked to the bridge last summer.
+They walked to the bridge last summer.
+We were walking to the bridge last summer.
+She is walking to the bridge now.
+They are walking to the bridge now.
+She walks to the village each morning.
+They walk to the village each morning.
+I walk to the village each morning.
+She walks to the village every afternoon.
+They walk to the village every afternoon.
+I walk to the village every afternoon.
+She walks to the village on weekends.
+They walk to the village on weekends.
+I walk to the village on weekends.
+She walked to the village last Monday.
+They walked to the village last Monday.
+We were walking to the village last Monday.
+She walked to the village last week.
+They walked to the village last week.
+We were walking to the village last week.
+She walked to the village yesterday.
+They walked to the village yesterday.
+We were walking to the village yesterday.
+She walked to the village last summer.
+They walked to the village last summer.
+We were walking to the village last summer.
+She is walking to the village now.
+They are walking to the village now.
+She walks to the beach each morning.
+They walk to the beach each morning.
+I walk to the beach each morning.
+She walks to the beach every afternoon.
+They walk to the beach every afternoon.
+I walk to the beach every afternoon.
+She walks to the beach on weekends.
+They walk to the beach on weekends.
+I walk to the beach on weekends.
+She walked to the beach last Monday.
+They walked to the beach last Monday.
+We were walking to the beach last Monday.
+She walked to the beach last week.
+They walked to the beach last week.
+We were walking to the beach last week.
+She walked to the beach yesterday.
+They walked to the beach yesterday.
+We were walking to the beach yesterday.
+She walked to the beach last summer.
+They walked to the beach last summer.
+We were walking to the beach last summer.
+She is walking to the beach now.
+They are walking to the beach now.
+She walks to the school each morning.
+They walk to the school each morning.
+I walk to the school each morning.
+She walks to the school every afternoon.
+They walk to the school every afternoon.
+I walk to the school every afternoon.
+She walks to the school on weekends.
+They walk to the school on weekends.
+I walk to the school on weekends.
+She walked to the school last Monday.
+They walked to the school last Monday.
+We were walking to the school last Monday.
+She walked to the school last week.
+They walked to the school last week.
+We were walking to the school last week.
+She walked to the school yesterday.
+They walked to the school yesterday.
+We were walking to the school yesterday.
+She walked to the school last summer.
+They walked to the school last summer.
+We were walking to the school last summer.
+She is walking to the school now.
+They are walking to the school now.
+She walks to the store each morning.
+They walk to the store each morning.
+I walk to the store each morning.
+She walks to the store every afternoon.
+They walk to the store every afternoon.
+I walk to the store every afternoon.
+She walks to the store on weekends.
+They walk to the store on weekends.
+I walk to the store on weekends.
+She walked to the store last Monday.
+They walked to the store last Monday.
+We were walking to the store last Monday.
+She walked to the store last week.
+They walked to the store last week.
+We were walking to the store last week.
+She walked to the store yesterday.
+They walked to the store yesterday.
+We were walking to the store yesterday.
+She walked to the store last summer.
+They walked to the store last summer.
+We were walking to the store last summer.
+She is walking to the store now.
+They are walking to the store now.
+At the garden, one drink is hot while another is cold.
+We compared a hot drink with a cold drink at the garden.
+The hot drink differs from the cold drink at the garden.
+At the garden, the drink changed from hot to cold.
+At the garden, the drink changed from cold to hot.
+At the park, one drink is hot while another is cold.
+We compared a hot drink with a cold drink at the park.
+The hot drink differs from the cold drink at the park.
+At the park, the drink changed from hot to cold.
+At the park, the drink changed from cold to hot.
+At the library, one drink is hot while another is cold.
+We compared a hot drink with a cold drink at the library.
+The hot drink differs from the cold drink at the library.
+At the library, the drink changed from hot to cold.
+At the library, the drink changed from cold to hot.
+At the office, one drink is hot while another is cold.
+We compared a hot drink with a cold drink at the office.
+The hot drink differs from the cold drink at the office.
+At the office, the drink changed from hot to cold.
+At the office, the drink changed from cold to hot.
+At the station, one drink is hot while another is cold.
+We compared a hot drink with a cold drink at the station.
+The hot drink differs from the cold drink at the station.
+At the station, the drink changed from hot to cold.
+At the station, the drink changed from cold to hot.
+At the school, one drink is hot while another is cold.
+We compared a hot drink with a cold drink at the school.
+The hot drink differs from the cold drink at the school.
+At the school, the drink changed from hot to cold.
+At the school, the drink changed from cold to hot.
+At the store, one drink is hot while another is cold.
+We compared a hot drink with a cold drink at the store.
+The hot drink differs from the cold drink at the store.
+At the store, the drink changed from hot to cold.
+At the store, the drink changed from cold to hot.
+At the market, one drink is hot while another is cold.
+We compared a hot drink with a cold drink at the market.
+The hot drink differs from the cold drink at the market.
+At the market, the drink changed from hot to cold.
+At the market, the drink changed from cold to hot.
+At the garden, one room is warm while another is cool.
+We compared a warm room with a cool room at the garden.
+The warm room differs from the cool room at the garden.
+At the garden, the room changed from warm to cool.
+At the garden, the room changed from cool to warm.
+At the park, one room is warm while another is cool.
+We compared a warm room with a cool room at the park.
+The warm room differs from the cool room at the park.
+At the park, the room changed from warm to cool.
+At the park, the room changed from cool to warm.
+At the library, one room is warm while another is cool.
+We compared a warm room with a cool room at the library.
+The warm room differs from the cool room at the library.
+At the library, the room changed from warm to cool.
+At the library, the room changed from cool to warm.
+At the office, one room is warm while another is cool.
+We compared a warm room with a cool room at the office.
+The warm room differs from the cool room at the office.
+At the office, the room changed from warm to cool.
+At the office, the room changed from cool to warm.
+At the station, one room is warm while another is cool.
+We compared a warm room with a cool room at the station.
+The warm room differs from the cool room at the station.
+At the station, the room changed from warm to cool.
+At the station, the room changed from cool to warm.
+At the school, one room is warm while another is cool.
+We compared a warm room with a cool room at the school.
+The warm room differs from the cool room at the school.
+At the school, the room changed from warm to cool.
+At the school, the room changed from cool to warm.
+At the store, one room is warm while another is cool.
+We compared a warm room with a cool room at the store.
+The warm room differs from the cool room at the store.
+At the store, the room changed from warm to cool.
+At the store, the room changed from cool to warm.
+At the market, one room is warm while another is cool.
+We compared a warm room with a cool room at the market.
+The warm room differs from the cool room at the market.
+At the market, the room changed from warm to cool.
+At the market, the room changed from cool to warm.
+At the garden, one basket is empty while another is full.
+We compared a empty basket with a full basket at the garden.
+The empty basket differs from the full basket at the garden.
+At the garden, the basket changed from empty to full.
+At the garden, the basket changed from full to empty.
+At the park, one basket is empty while another is full.
+We compared a empty basket with a full basket at the park.
+The empty basket differs from the full basket at the park.
+At the park, the basket changed from empty to full.
+At the park, the basket changed from full to empty.
+At the library, one basket is empty while another is full.
+We compared a empty basket with a full basket at the library.
+The empty basket differs from the full basket at the library.
+At the library, the basket changed from empty to full.
+At the library, the basket changed from full to empty.
+At the office, one basket is empty while another is full.
+We compared a empty basket with a full basket at the office.
+The empty basket differs from the full basket at the office.
+At the office, the basket changed from empty to full.
+At the office, the basket changed from full to empty.
+At the station, one basket is empty while another is full.
+We compared a empty basket with a full basket at the station.
+The empty basket differs from the full basket at the station.
+At the station, the basket changed from empty to full.
+At the station, the basket changed from full to empty.
+At the school, one basket is empty while another is full.
+We compared a empty basket with a full basket at the school.
+The empty basket differs from the full basket at the school.
+At the school, the basket changed from empty to full.
+At the school, the basket changed from full to empty.
+At the store, one basket is empty while another is full.
+We compared a empty basket with a full basket at the store.
+The empty basket differs from the full basket at the store.
+At the store, the basket changed from empty to full.
+At the store, the basket changed from full to empty.
+At the market, one basket is empty while another is full.
+We compared a empty basket with a full basket at the market.
+The empty basket differs from the full basket at the market.
+At the market, the basket changed from empty to full.
+At the market, the basket changed from full to empty.
+At the garden, one street is noisy while another is quiet.
+We compared a noisy street with a quiet street at the garden.
+The noisy street differs from the quiet street at the garden.
+At the garden, the street changed from noisy to quiet.
+At the garden, the street changed from quiet to noisy.
+At the park, one street is noisy while another is quiet.
+We compared a noisy street with a quiet street at the park.
+The noisy street differs from the quiet street at the park.
+At the park, the street changed from noisy to quiet.
+At the park, the street changed from quiet to noisy.
+At the library, one street is noisy while another is quiet.
+We compared a noisy street with a quiet street at the library.
+The noisy street differs from the quiet street at the library.
+At the library, the street changed from noisy to quiet.
+At the library, the street changed from quiet to noisy.
+At the office, one street is noisy while another is quiet.
+We compared a noisy street with a quiet street at the office.
+The noisy street differs from the quiet street at the office.
+At the office, the street changed from noisy to quiet.
+At the office, the street changed from quiet to noisy.
+At the station, one street is noisy while another is quiet.
+We compared a noisy street with a quiet street at the station.
+The noisy street differs from the quiet street at the station.
+At the station, the street changed from noisy to quiet.
+At the station, the street changed from quiet to noisy.
+At the school, one street is noisy while another is quiet.
+We compared a noisy street with a quiet street at the school.
+The noisy street differs from the quiet street at the school.
+At the school, the street changed from noisy to quiet.
+At the school, the street changed from quiet to noisy.
+At the store, one street is noisy while another is quiet.
+We compared a noisy street with a quiet street at the store.
+The noisy street differs from the quiet street at the store.
+At the store, the street changed from noisy to quiet.
+At the store, the street changed from quiet to noisy.
+At the market, one street is noisy while another is quiet.
+We compared a noisy street with a quiet street at the market.
+The noisy street differs from the quiet street at the market.
+At the market, the street changed from noisy to quiet.
+At the market, the street changed from quiet to noisy.
+At the garden, one sound is loud while another is soft.
+We compared a loud sound with a soft sound at the garden.
+The loud sound differs from the soft sound at the garden.
+At the garden, the sound changed from loud to soft.
+At the garden, the sound changed from soft to loud.
+At the park, one sound is loud while another is soft.
+We compared a loud sound with a soft sound at the park.
+The loud sound differs from the soft sound at the park.
+At the park, the sound changed from loud to soft.
+At the park, the sound changed from soft to loud.
+At the library, one sound is loud while another is soft.
+We compared a loud sound with a soft sound at the library.
+The loud sound differs from the soft sound at the library.
+At the library, the sound changed from loud to soft.
+At the library, the sound changed from soft to loud.
+At the office, one sound is loud while another is soft.
+We compared a loud sound with a soft sound at the office.
+The loud sound differs from the soft sound at the office.
+At the office, the sound changed from loud to soft.
+At the office, the sound changed from soft to loud.
+At the station, one sound is loud while another is soft.
+We compared a loud sound with a soft sound at the station.
+The loud sound differs from the soft sound at the station.
+At the station, the sound changed from loud to soft.
+At the station, the sound changed from soft to loud.
+At the school, one sound is loud while another is soft.
+We compared a loud sound with a soft sound at the school.
+The loud sound differs from the soft sound at the school.
+At the school, the sound changed from loud to soft.
+At the school, the sound changed from soft to loud.
+At the store, one sound is loud while another is soft.
+We compared a loud sound with a soft sound at the store.
+The loud sound differs from the soft sound at the store.
+At the store, the sound changed from loud to soft.
+At the store, the sound changed from soft to loud.
+At the market, one sound is loud while another is soft.
+We compared a loud sound with a soft sound at the market.
+The loud sound differs from the soft sound at the market.
+At the market, the sound changed from loud to soft.
+At the market, the sound changed from soft to loud.
+At the garden, one bag is heavy while another is light.
+We compared a heavy bag with a light bag at the garden.
+The heavy bag differs from the light bag at the garden.
+At the garden, the bag changed from heavy to light.
+At the garden, the bag changed from light to heavy.
+At the park, one bag is heavy while another is light.
+We compared a heavy bag with a light bag at the park.
+The heavy bag differs from the light bag at the park.
+At the park, the bag changed from heavy to light.
+At the park, the bag changed from light to heavy.
+At the library, one bag is heavy while another is light.
+We compared a heavy bag with a light bag at the library.
+The heavy bag differs from the light bag at the library.
+At the library, the bag changed from heavy to light.
+At the library, the bag changed from light to heavy.
+At the office, one bag is heavy while another is light.
+We compared a heavy bag with a light bag at the office.
+The heavy bag differs from the light bag at the office.
+At the office, the bag changed from heavy to light.
+At the office, the bag changed from light to heavy.
+At the station, one bag is heavy while another is light.
+We compared a heavy bag with a light bag at the station.
+The heavy bag differs from the light bag at the station.
+At the station, the bag changed from heavy to light.
+At the station, the bag changed from light to heavy.
+At the school, one bag is heavy while another is light.
+We compared a heavy bag with a light bag at the school.
+The heavy bag differs from the light bag at the school.
+At the school, the bag changed from heavy to light.
+At the school, the bag changed from light to heavy.
+At the store, one bag is heavy while another is light.
+We compared a heavy bag with a light bag at the store.
+The heavy bag differs from the light bag at the store.
+At the store, the bag changed from heavy to light.
+At the store, the bag changed from light to heavy.
+At the market, one bag is heavy while another is light.
+We compared a heavy bag with a light bag at the market.
+The heavy bag differs from the light bag at the market.
+At the market, the bag changed from heavy to light.
+At the market, the bag changed from light to heavy.
+At the garden, one bicycle is fast while another is slow.
+We compared a fast bicycle with a slow bicycle at the garden.
+The fast bicycle differs from the slow bicycle at the garden.
+At the garden, the bicycle changed from fast to slow.
+At the garden, the bicycle changed from slow to fast.
+At the park, one bicycle is fast while another is slow.
+We compared a fast bicycle with a slow bicycle at the park.
+The fast bicycle differs from the slow bicycle at the park.
+At the park, the bicycle changed from fast to slow.
+At the park, the bicycle changed from slow to fast.
+At the library, one bicycle is fast while another is slow.
+We compared a fast bicycle with a slow bicycle at the library.
+The fast bicycle differs from the slow bicycle at the library.
+At the library, the bicycle changed from fast to slow.
+At the library, the bicycle changed from slow to fast.
+At the office, one bicycle is fast while another is slow.
+We compared a fast bicycle with a slow bicycle at the office.
+The fast bicycle differs from the slow bicycle at the office.
+At the office, the bicycle changed from fast to slow.
+At the office, the bicycle changed from slow to fast.
+At the station, one bicycle is fast while another is slow.
+We compared a fast bicycle with a slow bicycle at the station.
+The fast bicycle differs from the slow bicycle at the station.
+At the station, the bicycle changed from fast to slow.
+At the station, the bicycle changed from slow to fast.
+At the school, one bicycle is fast while another is slow.
+We compared a fast bicycle with a slow bicycle at the school.
+The fast bicycle differs from the slow bicycle at the school.
+At the school, the bicycle changed from fast to slow.
+At the school, the bicycle changed from slow to fast.
+At the store, one bicycle is fast while another is slow.
+We compared a fast bicycle with a slow bicycle at the store.
+The fast bicycle differs from the slow bicycle at the store.
+At the store, the bicycle changed from fast to slow.
+At the store, the bicycle changed from slow to fast.
+At the market, one bicycle is fast while another is slow.
+We compared a fast bicycle with a slow bicycle at the market.
+The fast bicycle differs from the slow bicycle at the market.
+At the market, the bicycle changed from fast to slow.
+At the market, the bicycle changed from slow to fast.
+At the garden, one arrival is early while another is late.
+We compared a early arrival with a late arrival at the garden.
+The early arrival differs from the late arrival at the garden.
+At the garden, the arrival changed from early to late.
+At the garden, the arrival changed from late to early.
+At the park, one arrival is early while another is late.
+We compared a early arrival with a late arrival at the park.
+The early arrival differs from the late arrival at the park.
+At the park, the arrival changed from early to late.
+At the park, the arrival changed from late to early.
+At the library, one arrival is early while another is late.
+We compared a early arrival with a late arrival at the library.
+The early arrival differs from the late arrival at the library.
+At the library, the arrival changed from early to late.
+At the library, the arrival changed from late to early.
+At the office, one arrival is early while another is late.
+We compared a early arrival with a late arrival at the office.
+The early arrival differs from the late arrival at the office.
+At the office, the arrival changed from early to late.
+At the office, the arrival changed from late to early.
+At the station, one arrival is early while another is late.
+We compared a early arrival with a late arrival at the station.
+The early arrival differs from the late arrival at the station.
+At the station, the arrival changed from early to late.
+At the station, the arrival changed from late to early.
+At the school, one arrival is early while another is late.
+We compared a early arrival with a late arrival at the school.
+The early arrival differs from the late arrival at the school.
+At the school, the arrival changed from early to late.
+At the school, the arrival changed from late to early.
+At the store, one arrival is early while another is late.
+We compared a early arrival with a late arrival at the store.
+The early arrival differs from the late arrival at the store.
+At the store, the arrival changed from early to late.
+At the store, the arrival changed from late to early.
+At the market, one arrival is early while another is late.
+We compared a early arrival with a late arrival at the market.
+The early arrival differs from the late arrival at the market.
+At the market, the arrival changed from early to late.
+At the market, the arrival changed from late to early.
+At the garden, one cushion is soft while another is hard.
+We compared a soft cushion with a hard cushion at the garden.
+The soft cushion differs from the hard cushion at the garden.
+At the garden, the cushion changed from soft to hard.
+At the garden, the cushion changed from hard to soft.
+At the park, one cushion is soft while another is hard.
+We compared a soft cushion with a hard cushion at the park.
+The soft cushion differs from the hard cushion at the park.
+At the park, the cushion changed from soft to hard.
+At the park, the cushion changed from hard to soft.
+At the library, one cushion is soft while another is hard.
+We compared a soft cushion with a hard cushion at the library.
+The soft cushion differs from the hard cushion at the library.
+At the library, the cushion changed from soft to hard.
+At the library, the cushion changed from hard to soft.
+At the office, one cushion is soft while another is hard.
+We compared a soft cushion with a hard cushion at the office.
+The soft cushion differs from the hard cushion at the office.
+At the office, the cushion changed from soft to hard.
+At the office, the cushion changed from hard to soft.
+At the station, one cushion is soft while another is hard.
+We compared a soft cushion with a hard cushion at the station.
+The soft cushion differs from the hard cushion at the station.
+At the station, the cushion changed from soft to hard.
+At the station, the cushion changed from hard to soft.
+At the school, one cushion is soft while another is hard.
+We compared a soft cushion with a hard cushion at the school.
+The soft cushion differs from the hard cushion at the school.
+At the school, the cushion changed from soft to hard.
+At the school, the cushion changed from hard to soft.
+At the store, one cushion is soft while another is hard.
+We compared a soft cushion with a hard cushion at the store.
+The soft cushion differs from the hard cushion at the store.
+At the store, the cushion changed from soft to hard.
+At the store, the cushion changed from hard to soft.
+At the market, one cushion is soft while another is hard.
+We compared a soft cushion with a hard cushion at the market.
+The soft cushion differs from the hard cushion at the market.
+At the market, the cushion changed from soft to hard.
+At the market, the cushion changed from hard to soft.
+At the garden, one table is round while another is square.
+We compared a round table with a square table at the garden.
+The round table differs from the square table at the garden.
+At the garden, the table changed from round to square.
+At the garden, the table changed from square to round.
+At the park, one table is round while another is square.
+We compared a round table with a square table at the park.
+The round table differs from the square table at the park.
+At the park, the table changed from round to square.
+At the park, the table changed from square to round.
+At the library, one table is round while another is square.
+We compared a round table with a square table at the library.
+The round table differs from the square table at the library.
+At the library, the table changed from round to square.
+At the library, the table changed from square to round.
+At the office, one table is round while another is square.
+We compared a round table with a square table at the office.
+The round table differs from the square table at the office.
+At the office, the table changed from round to square.
+At the office, the table changed from square to round.
+At the station, one table is round while another is square.
+We compared a round table with a square table at the station.
+The round table differs from the square table at the station.
+At the station, the table changed from round to square.
+At the station, the table changed from square to round.
+At the school, one table is round while another is square.
+We compared a round table with a square table at the school.
+The round table differs from the square table at the school.
+At the school, the table changed from round to square.
+At the school, the table changed from square to round.
+At the store, one table is round while another is square.
+We compared a round table with a square table at the store.
+The round table differs from the square table at the store.
+At the store, the table changed from round to square.
+At the store, the table changed from square to round.
+At the market, one table is round while another is square.
+We compared a round table with a square table at the market.
+The round table differs from the square table at the market.
+At the market, the table changed from round to square.
+At the market, the table changed from square to round.
+At the garden, one path is wide while another is narrow.
+We compared a wide path with a narrow path at the garden.
+The wide path differs from the narrow path at the garden.
+At the garden, the path changed from wide to narrow.
+At the garden, the path changed from narrow to wide.
+At the park, one path is wide while another is narrow.
+We compared a wide path with a narrow path at the park.
+The wide path differs from the narrow path at the park.
+At the park, the path changed from wide to narrow.
+At the park, the path changed from narrow to wide.
+At the library, one path is wide while another is narrow.
+We compared a wide path with a narrow path at the library.
+The wide path differs from the narrow path at the library.
+At the library, the path changed from wide to narrow.
+At the library, the path changed from narrow to wide.
+At the office, one path is wide while another is narrow.
+We compared a wide path with a narrow path at the office.
+The wide path differs from the narrow path at the office.
+At the office, the path changed from wide to narrow.
+At the office, the path changed from narrow to wide.
+At the station, one path is wide while another is narrow.
+We compared a wide path with a narrow path at the station.
+The wide path differs from the narrow path at the station.
+At the station, the path changed from wide to narrow.
+At the station, the path changed from narrow to wide.
+At the school, one path is wide while another is narrow.
+We compared a wide path with a narrow path at the school.
+The wide path differs from the narrow path at the school.
+At the school, the path changed from wide to narrow.
+At the school, the path changed from narrow to wide.
+At the store, one path is wide while another is narrow.
+We compared a wide path with a narrow path at the store.
+The wide path differs from the narrow path at the store.
+At the store, the path changed from wide to narrow.
+At the store, the path changed from narrow to wide.
+At the market, one path is wide while another is narrow.
+We compared a wide path with a narrow path at the market.
+The wide path differs from the narrow path at the market.
+At the market, the path changed from wide to narrow.
+At the market, the path changed from narrow to wide.
+At the garden, one towel is wet while another is dry.
+We compared a wet towel with a dry towel at the garden.
+The wet towel differs from the dry towel at the garden.
+At the garden, the towel changed from wet to dry.
+At the garden, the towel changed from dry to wet.
+At the park, one towel is wet while another is dry.
+We compared a wet towel with a dry towel at the park.
+The wet towel differs from the dry towel at the park.
+At the park, the towel changed from wet to dry.
+At the park, the towel changed from dry to wet.
+At the library, one towel is wet while another is dry.
+We compared a wet towel with a dry towel at the library.
+The wet towel differs from the dry towel at the library.
+At the library, the towel changed from wet to dry.
+At the library, the towel changed from dry to wet.
+At the office, one towel is wet while another is dry.
+We compared a wet towel with a dry towel at the office.
+The wet towel differs from the dry towel at the office.
+At the office, the towel changed from wet to dry.
+At the office, the towel changed from dry to wet.
+At the station, one towel is wet while another is dry.
+We compared a wet towel with a dry towel at the station.
+The wet towel differs from the dry towel at the station.
+At the station, the towel changed from wet to dry.
+At the station, the towel changed from dry to wet.
+At the school, one towel is wet while another is dry.
+We compared a wet towel with a dry towel at the school.
+The wet towel differs from the dry towel at the school.
+At the school, the towel changed from wet to dry.
+At the school, the towel changed from dry to wet.
+At the store, one towel is wet while another is dry.
+We compared a wet towel with a dry towel at the store.
+The wet towel differs from the dry towel at the store.
+At the store, the towel changed from wet to dry.
+At the store, the towel changed from dry to wet.
+At the market, one towel is wet while another is dry.
+We compared a wet towel with a dry towel at the market.
+The wet towel differs from the dry towel at the market.
+At the market, the towel changed from wet to dry.
+At the market, the towel changed from dry to wet.
