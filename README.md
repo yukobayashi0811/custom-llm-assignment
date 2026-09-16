@@ -43,6 +43,12 @@ the updated comparison. New benchmark scores are not attached to its old weights
 3. **Learning rate:** `LEARNING_RATE = 0.001`. The starter's 100-step warmup and
    cosine decay are retained. The actual first step uses 0.00001 and the schedule
    approaches 0.0001 near the end; 0.001 is the peak setting, not a constant rate.
+   I retained the recommended 0.001 baseline in both experiments to keep optimizer
+   settings comparable while changing the teaching corpus. Excessively large
+   updates can overshoot useful parameter values and cause oscillating or nonfinite
+   loss. Excessively small updates can make learning too slow to improve sufficiently
+   within the 3,000-step budget. This is a baseline choice, not a claim that 0.001
+   is optimal.
 
 ### Pre-training predictions
 
